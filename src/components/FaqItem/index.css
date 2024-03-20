@@ -1,0 +1,19 @@
+/* Write your code here. */
+.eachFaqListItem {
+  margin: 10px;
+  list-style-type: none;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+.titleButtonContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.button {
+  cursor: pointer;
+  border-style: none;
+  background-color: transparent;
+}
